@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    position: relative;
+    margin: 50px auto;
+    width: 1000px;
+    height: 600px;
+    border: 2px solid red;
+    overflow: hidden;
+}
+
+.collage1{
+    width: 200px;
+    height: 200px;
+    /* background-color: pink; */
+    left: 50px;
+    top: 50px;
+    transform: translate(100px, 100px);
+}
+.collage2{
+    width: 200px;
+    height: 200px;
+    /* background-color: pink; */
+    left: 50px;
+    top: 50px;
+    transform: translate(100px, 100px);
+}
+.collage3{
+    width: 200px;
+    height: 200px;
+    /* background-color: pink; */
+    left: 50px;
+    top: 50px;
+    transform: translate(100px, 100px);
+}
+.collage4{
+    width: 200px;
+    height: 200px;
+    /* background-color: pink; */
+    left: 50px;
+    top: 50px;
+    transform: translate(100px, 100px);
+}
+
+.collage1 img {
+    width: 100%;
+}
+
+.collage2 img {
+    width: 100%;
+}
+
+.collage3 img {
+    width: 100%;
+}
+.collage4 img {
+    width: 100%;
+}
